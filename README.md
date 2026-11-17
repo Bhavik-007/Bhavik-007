@@ -1,22 +1,27 @@
-# Bhavik Dave
-
-### Project & Delivery Leader | Digital Transformation | AI & Automation
-
-I lead technology delivery and build practical solutions across software engineering, data, AI and intelligent automation. My focus is translating business priorities into well-governed execution, measurable outcomes and scalable products.
-
-[![Followers](https://img.shields.io/badge/followers-0-2563eb?style=flat-square)](https://github.com/Bhavik-007?tab=followers) [![Public repositories](https://img.shields.io/badge/repositories-18-475569?style=flat-square)](https://github.com/Bhavik-007?tab=repositories) [![Repository stars](https://img.shields.io/badge/stars-6-b45309?style=flat-square)](https://github.com/Bhavik-007?tab=repositories) [![Certifications](https://img.shields.io/badge/credentials-view%20library-0f766e?style=flat-square)](https://github.com/Bhavik-007/My-Certification)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PROFILE-EXECUTIVE%20OVERVIEW-1E3A8A?style=for-the-badge" alt="Executive profile overview" />
+<h1 align="center">Bhavik Dave</h1>
+<h3 align="center">Project & Delivery Leader | Digital Transformation | AI & Automation</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT%20%26%20DELIVERY-LEADERSHIP-173B67?style=for-the-badge" alt="Project and delivery leadership" />
+  <img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION-SOLUTIONS-087E8B?style=for-the-badge" alt="AI and automation solutions" />
+  <img src="https://img.shields.io/badge/DATA%20%26%20ENGINEERING-PLATFORMS-52616B?style=for-the-badge" alt="Data and engineering platforms" />
 </p>
+<p align="center">I lead technology delivery and build practical solutions across software engineering, data, AI and intelligent automation. My focus is translating business priorities into well-governed execution, measurable outcomes and scalable products.</p>
+<p align="center">
+  <a href="https://github.com/Bhavik-007?tab=followers"><img src="https://img.shields.io/badge/FOLLOWERS-0-2563eb?style=flat-square" alt="Followers" /></a>
+  <a href="https://github.com/Bhavik-007?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-18-475569?style=flat-square" alt="Public repositories" /></a>
+  <a href="https://github.com/Bhavik-007?tab=repositories"><img src="https://img.shields.io/badge/STARS-6-b45309?style=flat-square" alt="Repository stars" /></a>
+  <a href="https://github.com/Bhavik-007/My-Certification"><img src="https://img.shields.io/badge/CREDENTIALS-VIEW%20PORTFOLIO-0f766e?style=flat-square" alt="Credential portfolio" /></a>
+</p>
+
+---
 
 ## Executive overview
 
-| Strategic focus | Value proposition |
-|---|---|
-| **Leadership lens** | Project & delivery management |
-| **Transformation** | AI, automation & digital solutions |
-| **Engineering** | APIs, data platforms & quality |
+## Executive snapshot
+
+| **Leadership** | **Transformation** | **Engineering** |
+|:---:|:---:|:---:|
+| **Leadership lens**<br>Project & delivery management | **Transformation**<br>AI, automation & digital solutions | **Engineering**<br>APIs, data platforms & quality |
 
 ## Leadership & delivery capabilities
 
@@ -38,7 +43,7 @@ I lead technology delivery and build practical solutions across software enginee
 
 ## Technology ecosystem
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
@@ -60,8 +65,8 @@ I lead technology delivery and build practical solutions across software enginee
 
 ## Selected GitHub portfolio
 
-| Project | Business / technical theme | Primary language | Stars |
-|---|---|---:|---:|
+| Project | What it explores | Language | Stars |
+|---|---|:---:|---:|
 | [GraphQL-Data-Gateway](https://github.com/Bhavik-007/GraphQL-Data-Gateway) | Explore the repository | Python | 1 |
 | [marketing_campaign_studio](https://github.com/Bhavik-007/marketing_campaign_studio) | Explore the repository | Python | 1 |
 | [nse-market-intelligence-tensortrade](https://github.com/Bhavik-007/nse-market-intelligence-tensortrade) | Explore the repository | Python | 1 |
@@ -69,14 +74,22 @@ I lead technology delivery and build practical solutions across software enginee
 | [Natural-Language-to-SQL-RAG-Assistant](https://github.com/Bhavik-007/Natural-Language-to-SQL-RAG-Assistant) | Explore the repository | Python | 1 |
 | [AgentFlow-Event-Driven-Real-Time-Messaging-with-Redis-Pub-Sub-SQL](https://github.com/Bhavik-007/AgentFlow-Event-Driven-Real-Time-Messaging-with-Redis-Pub-Sub-SQL) | Explore the repository | Python | 1 |
 
-## Professional certifications
+## Completed credentials
 
-- **Project Management Professional (PMP)®** — Completed
-- **Claude Certified Solutions Architect** — Completed
+A curated set of completed credentials. Use the issuer links below to view each credential's verification page.
+
+| Credential | Issuer | Status |
+|---|---|:---:|
+| [Credly digital credential 1](https://www.credly.com/badges/a08bdeec-b774-4132-8f73-7942d1eef2cb/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [FreeAcademy credential](https://freeacademy.ai/verify/FA-2026-AAPL-CAFME7) | FreeAcademy | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Credly digital credential 2](https://www.credly.com/badges/1031fcb7-8e1e-406d-b6eb-0b5a3b15a1bd/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Skilljar course credential](https://verify.skilljar.com/c/3fazyzqpp3sz) | Skilljar | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/0PZYV6UFWAXD) | Coursera | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Credly digital credential 3](https://www.credly.com/badges/18e7ac1e-e1b3-453c-a3f3-c86f0fd2e373/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
 
 ## Certifications & continuous learning
 
-The credential library below links to the original files in my dedicated repository. It brings together learning across delivery, business analysis, data, AI, cloud and enterprise platforms.
+Additional certificates and learning records are available in the dedicated repository. The links below open the original files.
 
 ### Project delivery & business
 
@@ -115,21 +128,21 @@ The credential library below links to the original files in my dedicated reposit
 
 **Full credential library:** [https://github.com/Bhavik-007/My-Certification](https://github.com/Bhavik-007/My-Certification)
 
-## GitHub activity & engineering snapshot
+## GitHub activity
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Bhavik-007&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub statistics" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bhavik-007&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-007&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top languages" /></p>
 
 **Repository language mix**  
-`Python` (12) `TSQL` (1)
+`Python` (12) · `TSQL` (1)
 
-<sub>Language counts represent each repository's GitHub primary-language label, not a line-by-line code analysis.</sub>
+<sub>Language counts use each repository's GitHub primary-language label; they are not a line-by-line code analysis.</sub>
 
 ## Connect
 
 - GitHub: [@Bhavik-007](https://github.com/Bhavik-007)
-- Certifications: [View credential library](https://github.com/Bhavik-007/My-Certification)
+- Credentials: [View credential portfolio](https://github.com/Bhavik-007/My-Certification)
 
 ---
 
-<sub>Profile metrics refreshed: 2026-11-17 17:10 UTC · Light-theme executive profile · Generated with Python.</sub>
+<p align="center"><sub>Profile metrics refreshed: 2026-11-17 17:30 UTC · Light-theme executive layout · Generated with Python.</sub></p>
