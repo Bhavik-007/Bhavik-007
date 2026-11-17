@@ -7,13 +7,21 @@
 </p>
 <p align="center">I lead technology delivery and build practical solutions across software engineering, data, AI and intelligent automation. My focus is translating business priorities into well-governed execution, measurable outcomes and scalable products.</p>
 <p align="center">
-  <a href="https://github.com/Bhavik-007?tab=followers"><img src="https://img.shields.io/badge/FOLLOWERS-0-2563eb?style=flat-square" alt="Followers" /></a>
-  <a href="https://github.com/Bhavik-007?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-18-475569?style=flat-square" alt="Public repositories" /></a>
-  <a href="https://github.com/Bhavik-007?tab=repositories"><img src="https://img.shields.io/badge/STARS-6-b45309?style=flat-square" alt="Repository stars" /></a>
   <a href="https://github.com/Bhavik-007/My-Certification"><img src="https://img.shields.io/badge/CREDENTIALS-VIEW%20PORTFOLIO-0f766e?style=flat-square" alt="Credential portfolio" /></a>
 </p>
 
 ---
+
+## Key performance indicators (KPI scorecard)
+
+<p align="center"><sub>Live snapshot of public, non-fork GitHub repositories · refreshed whenever this profile is generated</sub></p>
+<table><tr>
+<td align="center" width="20%"><strong>18</strong><br/><sub>PUBLIC REPOSITORIES</sub></td>
+<td align="center" width="20%"><strong>6</strong><br/><sub>STARS EARNED</sub></td>
+<td align="center" width="20%"><strong>0</strong><br/><sub>REPOSITORY FORKS</sub></td>
+<td align="center" width="20%"><strong>2</strong><br/><sub>LANGUAGES</sub></td>
+<td align="center" width="20%"><strong>6</strong><br/><sub>FEATURED PROJECTS</sub></td>
+</tr></table>
 
 ## Executive overview
 
@@ -80,12 +88,12 @@ A curated set of completed credentials. Use the issuer links below to view each 
 
 | Credential | Issuer | Status |
 |---|---|:---:|
-| [Credly digital credential 1](https://www.credly.com/badges/a08bdeec-b774-4132-8f73-7942d1eef2cb/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
-| [FreeAcademy credential](https://freeacademy.ai/verify/FA-2026-AAPL-CAFME7) | FreeAcademy | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
-| [Credly digital credential 2](https://www.credly.com/badges/1031fcb7-8e1e-406d-b6eb-0b5a3b15a1bd/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
-| [Skilljar course credential](https://verify.skilljar.com/c/3fazyzqpp3sz) | Skilljar | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
-| [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/0PZYV6UFWAXD) | Coursera | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
-| [Credly digital credential 3](https://www.credly.com/badges/18e7ac1e-e1b3-453c-a3f3-c86f0fd2e373/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Reinvention with Agentic AI](https://www.credly.com/badges/a08bdeec-b774-4132-8f73-7942d1eef2cb/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Agentic AI Python Langchain](https://freeacademy.ai/verify/FA-2026-AAPL-CAFME7) | FreeAcademy | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Professional Cloud Database Engineer Certification](https://www.credly.com/badges/1031fcb7-8e1e-406d-b6eb-0b5a3b15a1bd/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Building with the Claude API](https://verify.skilljar.com/c/3fazyzqpp3sz) | Skilljar | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/0PZYV6UFWAXD) | Coursera | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
+| [Practical Application of Gen AI for Project Managers](https://www.credly.com/badges/18e7ac1e-e1b3-453c-a3f3-c86f0fd2e373/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
 
 ## Certifications & continuous learning
 
@@ -128,9 +136,9 @@ Additional certificates and learning records are available in the dedicated repo
 
 **Full credential library:** [https://github.com/Bhavik-007/My-Certification](https://github.com/Bhavik-007/My-Certification)
 
-## GitHub activity
+## GitHub performance detail
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bhavik-007&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub statistics" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bhavik-007&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub performance statistics: commits, pull requests, issues and stars" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-007&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top languages" /></p>
 
 **Repository language mix**  
@@ -145,4 +153,4 @@ Additional certificates and learning records are available in the dedicated repo
 
 ---
 
-<p align="center"><sub>Profile metrics refreshed: 2026-11-17 17:30 UTC · Light-theme executive layout · Generated with Python.</sub></p>
+<p align="center"><sub>Profile metrics refreshed: 2026-11-17 17:42 UTC · Light-theme KPI dashboard · Generated with Python.</sub></p>
