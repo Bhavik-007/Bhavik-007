@@ -8,16 +8,17 @@
 <p align="center">I lead technology delivery and build practical solutions across software engineering, data, AI and intelligent automation. My focus is translating business priorities into well-governed execution, measurable outcomes and scalable products.</p>
 <p align="center">
   <a href="https://github.com/Bhavik-007/My-Certification"><img src="https://img.shields.io/badge/CREDENTIALS-VIEW%20PORTFOLIO-0f766e?style=flat-square" alt="Credential portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bhavik-dave-116985bb/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </p>
 
 ---
 
-## Key performance indicators (KPI scorecard)
+## ⭐ Key performance indicators (KPI scorecard)
 
 <p align="center"><sub>Live snapshot of public, non-fork GitHub repositories · refreshed whenever this profile is generated</sub></p>
 <table><tr>
 <td align="center" width="20%"><strong>18</strong><br/><sub>PUBLIC REPOSITORIES</sub></td>
-<td align="center" width="20%"><strong>6</strong><br/><sub>STARS EARNED</sub></td>
+<td align="center" width="20%"><strong>6</strong><br/><sub>⭐ STARS EARNED</sub></td>
 <td align="center" width="20%"><strong>0</strong><br/><sub>REPOSITORY FORKS</sub></td>
 <td align="center" width="20%"><strong>2</strong><br/><sub>LANGUAGES</sub></td>
 <td align="center" width="20%"><strong>6</strong><br/><sub>FEATURED PROJECTS</sub></td>
@@ -71,18 +72,18 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## Selected GitHub portfolio
+## ⭐ Selected GitHub portfolio
 
-| Project | What it explores | Language | Stars |
-|---|---|:---:|---:|
-| [GraphQL-Data-Gateway](https://github.com/Bhavik-007/GraphQL-Data-Gateway) | Explore the repository | Python | 1 |
-| [marketing_campaign_studio](https://github.com/Bhavik-007/marketing_campaign_studio) | Explore the repository | Python | 1 |
-| [nse-market-intelligence-tensortrade](https://github.com/Bhavik-007/nse-market-intelligence-tensortrade) | Explore the repository | Python | 1 |
-| [BOT-NLP-to-SQL](https://github.com/Bhavik-007/BOT-NLP-to-SQL) | Design and generate a complete enterprise-grade NLP-to-SQL BOT application in Python with the followin... | Python | 1 |
-| [Natural-Language-to-SQL-RAG-Assistant](https://github.com/Bhavik-007/Natural-Language-to-SQL-RAG-Assistant) | Explore the repository | Python | 1 |
-| [AgentFlow-Event-Driven-Real-Time-Messaging-with-Redis-Pub-Sub-SQL](https://github.com/Bhavik-007/AgentFlow-Event-Driven-Real-Time-Messaging-with-Redis-Pub-Sub-SQL) | Explore the repository | Python | 1 |
+| Project | What it explores | Language |
+|---|---|:---:|
+| [GraphQL-Data-Gateway](https://github.com/Bhavik-007/GraphQL-Data-Gateway) | Explore the repository | Python |
+| [marketing_campaign_studio](https://github.com/Bhavik-007/marketing_campaign_studio) | Explore the repository | Python |
+| [nse-market-intelligence-tensortrade](https://github.com/Bhavik-007/nse-market-intelligence-tensortrade) | Explore the repository | Python |
+| [BOT-NLP-to-SQL](https://github.com/Bhavik-007/BOT-NLP-to-SQL) | Design and generate a complete enterprise-grade NLP-to-SQL BOT application in Python with the followin... | Python |
+| [Natural-Language-to-SQL-RAG-Assistant](https://github.com/Bhavik-007/Natural-Language-to-SQL-RAG-Assistant) | Explore the repository | Python |
+| [AgentFlow-Event-Driven-Real-Time-Messaging-with-Redis-Pub-Sub-SQL](https://github.com/Bhavik-007/AgentFlow-Event-Driven-Real-Time-Messaging-with-Redis-Pub-Sub-SQL) | Explore the repository | Python |
 
-## Completed credentials
+## ⭐ Completed credentials
 
 A curated set of completed credentials. Use the issuer links below to view each credential's verification page.
 
@@ -95,7 +96,7 @@ A curated set of completed credentials. Use the issuer links below to view each 
 | [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/0PZYV6UFWAXD) | Coursera | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
 | [Practical Application of Gen AI for Project Managers](https://www.credly.com/badges/18e7ac1e-e1b3-453c-a3f3-c86f0fd2e373/linked_in_profile) | Credly | <img src="https://img.shields.io/badge/STATUS-COMPLETED-16803c?style=flat-square" alt="Completed" /> |
 
-## Certifications & continuous learning
+## ⭐ Certifications & continuous learning
 
 Additional certificates and learning records are available in the dedicated repository. The links below open the original files.
 
@@ -146,11 +147,12 @@ Additional certificates and learning records are available in the dedicated repo
 
 <sub>Language counts use each repository's GitHub primary-language label; they are not a line-by-line code analysis.</sub>
 
-## Connect
+## ⭐ Connect
 
 - GitHub: [@Bhavik-007](https://github.com/Bhavik-007)
 - Credentials: [View credential portfolio](https://github.com/Bhavik-007/My-Certification)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/bhavik-dave-116985bb/)
 
 ---
 
-<p align="center"><sub>Profile metrics refreshed: 2026-11-17 17:42 UTC · Light-theme KPI dashboard · Generated with Python.</sub></p>
+<p align="center"><sub>Profile metrics refreshed: 2026-11-17 17:50 UTC · Light-theme KPI dashboard · Generated with Python.</sub></p>
