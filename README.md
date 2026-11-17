@@ -17,11 +17,9 @@
 
 <p align="center"><sub>Live snapshot of public, non-fork GitHub repositories · refreshed whenever this profile is generated</sub></p>
 <table><tr>
-<td align="center" width="20%"><strong>18</strong><br/><sub>PUBLIC REPOSITORIES</sub></td>
-<td align="center" width="20%"><strong>6</strong><br/><sub>⭐ STARS EARNED</sub></td>
-<td align="center" width="20%"><strong>0</strong><br/><sub>REPOSITORY FORKS</sub></td>
-<td align="center" width="20%"><strong>2</strong><br/><sub>LANGUAGES</sub></td>
-<td align="center" width="20%"><strong>6</strong><br/><sub>FEATURED PROJECTS</sub></td>
+<td align="center" width="33%"><strong>18</strong><br/><sub>PUBLIC REPOSITORIES</sub></td>
+<td align="center" width="33%"><strong>2</strong><br/><sub>LANGUAGES</sub></td>
+<td align="center" width="34%"><strong>6</strong><br/><sub>FEATURED PROJECTS</sub></td>
 </tr></table>
 
 ## Executive overview
@@ -139,8 +137,8 @@ Additional certificates and learning records are available in the dedicated repo
 
 ## GitHub performance detail
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bhavik-007&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub performance statistics: commits, pull requests, issues and stars" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-007&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top languages" /></p>
+<p align="center"><img src="./assets/github-performance.svg" alt="GitHub performance overview" width="100%" /></p>
+<p align="center"><img src="./assets/github-language-mix.svg" alt="Repository language mix chart" width="100%" /></p>
 
 **Repository language mix**  
 `Python` (12) · `TSQL` (1)
@@ -155,4 +153,4 @@ Additional certificates and learning records are available in the dedicated repo
 
 ---
 
-<p align="center"><sub>Profile metrics refreshed: 2026-11-17 17:50 UTC · Light-theme KPI dashboard · Generated with Python.</sub></p>
+<p align="center"><sub>Profile metrics refreshed: 2026-11-17 18:04 UTC · Light-theme KPI dashboard · Generated with Python.</sub></p>
